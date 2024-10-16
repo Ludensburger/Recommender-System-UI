@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.jumbotron {
+  background-image: url("music-banner.jpg");
+  background-size: cover;
+  background-position: center;
+}
+
+h2 {
+  margin-top: 40px;
+  font-weight: bold;
+}
+
+.form-label {
+  font-weight: bold;
+}
+
+#recommendations .card {
+  margin-bottom: 20px;
+}
